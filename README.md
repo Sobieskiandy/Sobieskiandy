@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sobieskiandy currently last term high school student.
+- 👀 I’m interested most in Python(moduls included) and Javascript(libraries included)
+- 🌱 I’m currently learning many languages and technologies.
